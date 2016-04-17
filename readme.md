@@ -37,7 +37,7 @@ The game will run with the lowest possible resolution.
 
 ![The Cantina (Low Memory)](https://raw.githubusercontent.com/komarnicki/lands-of-lore-2/master/screenshots/cantina3.png)
 
-Talk to Baratta and exit Cantina. Save the game and quit. Restore `bxlaunch.bat` to the original state and simply
+Talk to Baccata and exit Cantina. Save the game and quit. Restore `bxlaunch.bat` to the original state and simply
 run the game again. Finally go to Video Controlls and the the resolution back to `High`.
 
 ![Video Controlls](https://raw.githubusercontent.com/komarnicki/lands-of-lore-2/master/screenshots/video_controlls.png)
