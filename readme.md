@@ -21,25 +21,25 @@ and edit:
 or checkout the repository inside `C.harddisk`. It will replace existing file. Now before entering the Cantina,
 comment line 2 and uncomment line 3. That's all.
 
-![Destination](https://raw.githubusercontent.com/komarnicki/lands-of-lore-2/master/screenshots/destination.png)
+![Destination](screenshots/destination.png)
 
 ## The Cantina
 
-![The Cantina](https://raw.githubusercontent.com/komarnicki/lands-of-lore-2/master/screenshots/cantina1.png)
+![The Cantina](screenshots/cantina1.png)
 
 ## Final steps
 
 Once you run the game with mentioned parameter, you will be asked to rebuild the cache. Hit **Yes**.
 
-![The Cantina (Low Memory)](https://raw.githubusercontent.com/komarnicki/lands-of-lore-2/master/screenshots/cantina2.png)
+![The Cantina (Low Memory)](screenshots/cantina2.png)
 
 The game will run with the lowest possible resolution.
 
-![The Cantina (Low Memory)](https://raw.githubusercontent.com/komarnicki/lands-of-lore-2/master/screenshots/cantina3.png)
+![The Cantina (Low Memory)](screenshots/cantina3.png)
 
 Talk to Baccata and exit Cantina. Save the game and quit. Restore `bxlaunch.bat` to the original state and simply
 run the game again. Finally go to Video Controlls and the the resolution back to `High`.
 
-![Video Controlls](https://raw.githubusercontent.com/komarnicki/lands-of-lore-2/master/screenshots/video_controlls.png)
+![Video Controlls](screenshots/video_controlls.png)
 
 Enjoy the rest of this awesome game!
